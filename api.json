@@ -1,0 +1,66 @@
+﻿{
+  "urls": [
+        {
+            "url": "http://47.96.82.41:8/api.json",
+            "name": "ZJNG | 资源线路"
+        },
+        {
+            "url": "https://7337.kstore.space/kjtv/自用测试.json",
+            "name": "ZJNG | 天微"
+        },
+        {
+            "url": "https://gh-proxy.com/https://github.com/xmbjm/svip/refs/heads/main/svip.json",
+            "name": "ZJNG | 拾光"
+        },
+        {
+            "url": "https://gh-proxy.com/https://github.com/PizazzGY/TVBox/blob/main/api.json",
+            "name": "ZJNG | 潇洒"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "ZJNG | 摸鱼"
+        }，
+        {
+            "url": "https://gh-proxy.com/https://github.com/guot55/yg/main/pg/bh.json",
+            "name": "ZJNG | 宝盒"
+        },
+        {
+            "url": "https://www.252035.xyz/z/FongMi.json",
+            "name": "ZJNG | 真心"
+        },
+        {
+            "url": "http://肥猫.com",
+            "name": "ZJNG | 肥猫"
+        },
+        {
+            "url": "http://www.饭太硬.net/tv",
+            "name": "ZJNG | 饭太硬"
+        },
+        {
+            "url": " http://www.meowtv.vip/tvbox.json",
+            "name": "ZJNG | 喵影视"
+        },
+        {
+            "url": "http://hb.小虎斑.site:25252/仅供测试",
+            "name": "ZJNG | 小虎斑"
+        },
+        {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "ZJNG | 王二小放牛娃"
+        }，  
+        {
+            "url": "https://clun.top/box.json",
+            "name": "ZJNG | TG"
+        },
+        {
+            "url": "http://ok321.top/tv",
+            "name": "ZJNG | OK"
+        },
+        {
+            "url": "https://clun.top/fun.json",
+            "name": "ZJNG | 18+"
+        }
+  ]
+}
+
+
