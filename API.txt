@@ -18,7 +18,7 @@
     },
     {
       "name": "ZJNG | 摸鱼",
-      "url": "hhttps://play.iptv365.org/摸鱼儿/api.json"
+      "url": "https://play.iptv365.org/摸鱼儿/api.json"
     },
     {
       "name": "ZJNG | 宝盒",
