@@ -1,6 +1,6 @@
 # TV-API
 OK影视、tvbox配置文件
 
-https://raw.githubusercontent.com/zjng/TV-API/refs/heads/main/api.json
+https://fastly.jsdelivr.net/gh/zjng/TV-API@main/API.txt
 
-https://gh-proxy.com/https://raw.githubusercontent.com/zjng/TV-API/refs/heads/main/api.json
+https://fastly.jsdelivr.net/gh/zjng/TV-API@main/YY.txt
