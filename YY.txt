@@ -14,11 +14,11 @@
     },
     {
       "name": "ZJNG | 潇洒",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/blob/main/api.json"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/api.json"
     },
     {
       "name": "ZJNG | 摸鱼",
-      "url": "http://我不是.摸鱼儿.com"
+      "url": "hhttps://play.iptv365.org/摸鱼儿/api.json"
     },
     {
       "name": "ZJNG | 宝盒",
