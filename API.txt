@@ -34,7 +34,7 @@
     },
     {
       "name": "ZJNG | TG",
-      "url": "https://clun.top/box.json"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/box.json"
     },
     {
       "name": "ZJNG | OK",
