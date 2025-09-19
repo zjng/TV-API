@@ -1,17 +1,19 @@
 { "urls": [
     
-    { "url": "https://fastly.jsdelivr.net/gh/zjng/TV-API@main/天微.json", "name": "ZJNG | 天微" },
+    { "url": "https://7337.kstore.space/kjtv/自用测试.json", "name": "ZJNG | 天微" },
 
-    { "url": "https://fastly.jsdelivr.net/gh/zjng/TV-API@main/拾光.json", "name": "ZJNG | 拾光" },
+    { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json", "name": "ZJNG | 拾光" },
 
-    { "url": "https://fastly.jsdelivr.net/gh/zjng/TV-API@main/潇洒.json", "name": "ZJNG | 潇洒" },
+    { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/api.json", "name": "ZJNG | 潇洒" },
 
-    { "url": "https://fastly.jsdelivr.net/gh/zjng/TV-API@main/摸鱼.json", "name": "ZJNG | 摸鱼" },
+    { "url": "http://我不是.摸鱼儿.com", "name": "ZJNG | 摸鱼" },
 
-    { "url": "https://fastly.jsdelivr.net/gh/zjng/TV-API@main/南风.json", "name": "ZJNG | 南风" },
+    { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "ZJNG | 南风" },
 
-    { "url": "https://fastly.jsdelivr.net/gh/zjng/TV-API@main/宝盒.json", "name": "ZJNG | 宝盒" },
+    { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json", "name": "ZJNG | 宝盒" },
 
-    { "url": "https://fastly.jsdelivr.net/gh/zjng/TV-API@main/王二小放牛娃.json", "name": "ZJNG | 王二小放牛娃" }
+    { "url": "http://hb.小虎斑.site:25252/仅供测试", "name": "ZJNG | 小虎斑" },
+
+    { "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top", "name": "ZJNG | 王二小放牛娃" }
     
 ]}
