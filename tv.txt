@@ -1,0 +1,21 @@
+{ "urls": [
+    
+    { "url": "https://raw.kkgithub.com/zjng/TV-API/main/天微.json", "name": "ZJNG | 天微" },
+
+    { "url": "https://raw.kkgithub.com/zjng/TV-API/main/拾光.json", "name": "ZJNG | 拾光" },
+
+    { "url": "https://raw.kkgithub.com/zjng/TV-API/main/潇洒.json", "name": "ZJNG | 潇洒" },
+
+    { "url": "https://raw.kkgithub.com/zjng/TV-API/main/摸鱼.json", "name": "ZJNG | 摸鱼" },
+
+    { "url": "https://raw.kkgithub.com/zjng/TV-API/main/南风.json", "name": "ZJNG | 南风" },
+
+    { "url": "https://raw.kkgithub.com/zjng/TV-API/main/宝盒.json", "name": "ZJNG | 宝盒" },
+
+    { "url": "https://raw.kkgithub.com/zjng/TV-API/main/王二小放牛娃.json", "name": "ZJNG | 王二小放牛娃" },
+
+    { "url": "https://raw.kkgithub.com/zjng/TV-API/main/OK.json", "name": "ZJNG | OK" },
+
+    { "url": "https://raw.kkgithub.com/zjng/TV-API/main/iptv直播.json", "name": "ZJNG | iptv直播" }
+    
+]}
