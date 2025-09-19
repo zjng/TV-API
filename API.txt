@@ -6,7 +6,7 @@
 
     { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/api.json", "name": "ZJNG | 潇洒" },
 
-    { "url": "http://我不是.摸鱼儿.com", "name": "ZJNG | 摸鱼" },
+    { "url": "https://play.iptv365.org/摸鱼儿/api.json", "name": "ZJNG | 摸鱼" },
 
     { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "ZJNG | 南风" },
 
