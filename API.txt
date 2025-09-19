@@ -14,8 +14,6 @@
 
     { "url": "http://hb.小虎斑.site:25252/仅供测试", "name": "ZJNG | 小虎斑" },
 
-    { "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top", "name": "ZJNG | 18+" },
-
     { "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top", "name": "ZJNG | 王二小放牛娃" }
     
 ]}
