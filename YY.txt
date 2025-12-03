@@ -1,6 +1,6 @@
 { "urls": [
     
-    { "url": "https://7337.kstore.space/kjtv/自用测试.json", "name": "ZJNG | 天微" },
+    { "url": "https://7337.kstore.vip/tw.json", "name": "ZJNG | 天微" },
 
     { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json", "name": "ZJNG | 拾光" },
 
