@@ -10,6 +10,6 @@
 
     { "url": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/0821.json", "name": "ZJNG | 饭太硬" },
 
-    { "url": "https://wget.la/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/box.json", "name": "ZJNG | ClunTop" },
+    { "url": "https://wget.la/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/box.json", "name": "ZJNG | ClunTop" }
     
 ]}
