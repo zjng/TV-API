@@ -17,3 +17,7 @@ https://raw.githubusercontent.com/zjng/TV-API/refs/heads/main/YY.txt
 加速地址
 https://wget.la/https://raw.githubusercontent.com/zjng/TV-API/refs/heads/main/YY.txt
 =====================================================================
+
+免责声明：
+
+🚫 本仓库仅作技术分享，所有资源版权归原作者，禁止用于商业用途！
