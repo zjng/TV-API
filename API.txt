@@ -4,13 +4,13 @@
 
     { "url": "https://7337.kstore.vip/tw.json", "name": "ZJNG | 天微" },
 
-    { "url": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/blob/master/xiaosa/api.json", "name": "ZJNG | 潇洒" },
+    { "url": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json", "name": "ZJNG | 潇洒" },
 
     { "url": "https://wget.la//https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "ZJNG | 南风" },
 
-    { "url": "http://我不是.摸鱼儿.com", "name": "ZJNG | 摸鱼" },
+    { "url": "https://play.iptv365.org/摸鱼儿/api.json", "name": "ZJNG | 摸鱼儿" },
 
-    { "url": "http://tvbox.王二小放牛娃.top", "name": "ZJNG | 王小二" },
+    { "url": "https://play.iptv365.org/王二小/api.json", "name": "ZJNG | 王小二" },
 
     { "url": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/0821.json", "name": "ZJNG | 饭太硬" },
 
