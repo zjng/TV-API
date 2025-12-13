@@ -1,6 +1,6 @@
 { "urls": [
 
-    { "url": "https://wget.la/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json", "name": "ZJNG | 拾光" },
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json", "name": "ZJNG | 拾光" },
 
     { "url": "https://7337.kstore.vip/tw.json", "name": "ZJNG | 天微" },
 
@@ -10,12 +10,12 @@
 
     { "url": "https://play.iptv365.org/王二小/api.json", "name": "ZJNG | 王小二" },
 
-    { "url": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/0821.json", "name": "ZJNG | 饭太硬" },
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/0821.json", "name": "ZJNG | 饭太硬" },
 
-    { "url": "https://wget.la/https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/Text/7080.json", "name": "ZJNG | 7080" },
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/Text/7080.json", "name": "ZJNG | 7080" },
 
-    { "url": "https://wget.la/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/box.json", "name": "ZJNG | ClunTop" },
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/box.json", "name": "ZJNG | ClunTop" },
 
-    { "url": "https://wget.la/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/fun.json", "name": "ZJNG | 18+" }
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/fun.json", "name": "ZJNG | 18+" }
     
 ]}
