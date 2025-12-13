@@ -7,6 +7,8 @@ https://gitee.com/zjngjng/TV-API/raw/main/API.txt
 https://raw.githubusercontent.com/zjng/TV-API/refs/heads/main/API.txt
 
 加速地址
+https://gh-proxy.org/https://raw.githubusercontent.com/zjng/TV-API/refs/heads/main/API.txt
+
 https://wget.la/https://raw.githubusercontent.com/zjng/TV-API/refs/heads/main/API.txt
 =====================================================================
 原地址（通用+18）
@@ -15,6 +17,8 @@ https://gitee.com/zjngjng/TV-API/raw/main/YY.txt
 https://raw.githubusercontent.com/zjng/TV-API/refs/heads/main/YY.txt
 
 加速地址
+https://gh-proxy.org/https://raw.githubusercontent.com/zjng/TV-API/refs/heads/main/YY.txt
+
 https://wget.la/https://raw.githubusercontent.com/zjng/TV-API/refs/heads/main/YY.txt
 =====================================================================
 
