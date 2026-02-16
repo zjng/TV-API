@@ -8,7 +8,7 @@
 
     { "url": "http://我不是.摸鱼儿.com", "name": "ZJNG | 摸鱼儿" },
 
-    { "url": "https://play.iptv365.org/王二小/api.json", "name": "ZJNG | 王小二" },
+    { "url": "http://tvbox.王二小放牛娃.top", "name": "ZJNG | 王小二" },
 
     { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/0821.json", "name": "ZJNG | 饭太硬" },
 
