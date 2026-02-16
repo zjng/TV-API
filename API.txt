@@ -6,7 +6,7 @@
 
     { "url": "https://play.iptv365.org/潇洒/api.json", "name": "ZJNG | 潇洒" },
 
-    { "url": "https://play.iptv365.org/摸鱼儿/api.json", "name": "ZJNG | 摸鱼儿" },
+    { "url": "http://我不是.摸鱼儿.com", "name": "ZJNG | 摸鱼儿" },
 
     { "url": "https://play.iptv365.org/王二小/api.json", "name": "ZJNG | 王小二" },
 
